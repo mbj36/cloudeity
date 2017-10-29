@@ -1,0 +1,16 @@
+{
+  "name": "cloudeity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clouedity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon clouedity.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "nodemon": "^1.12.1"
+  }
+}
